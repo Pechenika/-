@@ -1,0 +1,12 @@
+[24-May-2022 02:01:01 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bhx20296/stud1.erplanet.ru/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bhx20296/stud1.erplanet.ru/views/site/index.php on line 5
+[24-May-2022 02:02:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bhx20296/stud1.erplanet.ru/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bhx20296/stud1.erplanet.ru/views/site/index.php on line 5
+[24-May-2022 02:02:59 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bhx20296/stud1.erplanet.ru/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bhx20296/stud1.erplanet.ru/views/site/index.php on line 5
