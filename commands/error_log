@@ -1,0 +1,1 @@
+[24-May-2022 01:59:29 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/bhx20296/stud1.erplanet.ru/commands/HelloController.php on line 21
