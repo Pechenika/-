@@ -1,0 +1,22 @@
+[24-May-2022 02:00:59 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/Category.php on line 13
+[24-May-2022 02:00:59 Europe/Moscow] PHP Fatal error:  Class 'app\models\Model' not found in /home/bhx20296/stud1.erplanet.ru/models/Name.php on line 5
+[24-May-2022 02:01:00 Europe/Moscow] PHP Fatal error:  Class 'app\modules\admin\models\Category' not found in /home/bhx20296/stud1.erplanet.ru/models/HomeSearch.php on line 9
+[24-May-2022 02:01:00 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/Product.php on line 13
+[24-May-2022 02:01:00 Europe/Moscow] PHP Fatal error:  Class 'yii\base\Model' not found in /home/bhx20296/stud1.erplanet.ru/models/SearchForm.php on line 11
+[24-May-2022 02:01:01 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/ProductProperty.php on line 18
+[24-May-2022 02:01:02 Europe/Moscow] PHP Fatal error:  Class 'yii\base\Model' not found in /home/bhx20296/stud1.erplanet.ru/models/LoginForm.php on line 14
+[24-May-2022 02:01:02 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/Bascket.php on line 8
+[24-May-2022 02:01:02 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/Registration.php on line 12
+[24-May-2022 02:01:03 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/Property.php on line 15
+[24-May-2022 02:01:03 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/Home.php on line 14
+[24-May-2022 02:01:03 Europe/Moscow] PHP Fatal error:  Class 'yii\base\Model' not found in /home/bhx20296/stud1.erplanet.ru/models/MatrixForm.php on line 11
+[24-May-2022 02:01:04 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/Subcategories.php on line 13
+[24-May-2022 02:01:04 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/SubcatProperty.php on line 18
+[24-May-2022 02:01:04 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/ProductOrder.php on line 17
+[24-May-2022 02:01:05 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/ValueProperty.php on line 15
+[24-May-2022 02:01:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in /home/bhx20296/stud1.erplanet.ru/models/List.php on line 5
+[24-May-2022 02:01:45 Europe/Moscow] PHP Fatal error:  Class 'yii\base\Model' not found in /home/bhx20296/stud1.erplanet.ru/models/ContactForm.php on line 11
+[24-May-2022 02:03:29 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/Order.php on line 17
+[24-May-2022 02:06:29 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/User.php on line 6
+[26-May-2022 12:37:08 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/ValueProperty.php on line 15
+[08-Jun-2022 12:48:22 Europe/Moscow] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/bhx20296/stud1.erplanet.ru/models/Image.php on line 13
