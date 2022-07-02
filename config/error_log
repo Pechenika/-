@@ -1,0 +1,3 @@
+[24-May-2022 02:02:13 Europe/Moscow] PHP Notice:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' in /home/bhx20296/stud1.erplanet.ru/config/console.php on line 40
+[24-May-2022 02:06:12 Europe/Moscow] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/bhx20296/stud1.erplanet.ru/config/web.php on line 48
+[24-May-2022 02:06:12 Europe/Moscow] PHP Notice:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' in /home/bhx20296/stud1.erplanet.ru/config/web.php on line 75
